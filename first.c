@@ -20,6 +20,9 @@ int main(){
     printf("Your charge is: 100 TK\n");
   }
   else if(count > 500){
+    printf("Your charge is: %f\n",(count * 15.0)/100.0);
+  }
+  else{
     printf("Your charge is: %f\n",count);
   }
   return 0;
