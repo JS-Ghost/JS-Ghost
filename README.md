@@ -88,7 +88,7 @@ _2nd Semester_
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JS_Ghost&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JS-Ghost&theme=github-compact&hide_border=true" />
 </p>
 
 ---
