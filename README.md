@@ -83,8 +83,8 @@ _2nd Semester_
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JS-Ghost&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JS-Ghost&theme=transparent&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ _2nd Semester_
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/JS-Ghost">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
   </a>
   <a href="mailto:your-email@example.com">
